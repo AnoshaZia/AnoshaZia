@@ -11,7 +11,7 @@
 <br>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/anosha-zia-674659315/))
 [![GitHub](https://img.shields.io/badge/GitHub-AnoshaZia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnoshaZia)
 [![NUST](https://img.shields.io/badge/NUST%20SINES-BS%20Bioinformatics-blue?style=for-the-badge)]()
 [![Views](https://komarev.com/ghpvc/?username=AnoshaZia&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/AnoshaZia)
