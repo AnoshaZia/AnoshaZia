@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:00c9ff&height=250&section=header&text=Anosha%20Zia&fontSize=75&fontColor=ffffff&fontAlignY=33&desc=Founder%20%26%20CTO%20%7C%20Building%20at%20the%20Intersection%20of%20GreenTech%20%C3%97%20HealthTech%20%C3%97%20AI&descSize=16&descAlignY=56&descColor=90e0ef&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:00c9ff&height=250&section=header&text=Anosha%20Zia&fontSize=75&fontColor=ffffff&fontAlignY=33&desc=Founder%20|%20GreenTech%20x%20HealthTech%20x%20AI&descSize=16&descAlignY=56&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 <br>
 
