@@ -10,9 +10,10 @@
 <br>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anosha%20Zia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[anosha-zia-REPLACE-THIS](https://www.linkedin.com/in/anosha-zia-674659315/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anosha%20Zia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anosha-zia-674659315/)
 [![GitHub](https://img.shields.io/badge/GitHub-AnoshaZia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnoshaZia)
 [![NUST](https://img.shields.io/badge/NUST%20SINES-BS%20Bioinformatics-blue?style=for-the-badge)]()
+[![Website](https://img.shields.io/badge/EcoMuhafiz-ecomuhafiz.com-2ea44f?style=for-the-badge&logo=google-earth&logoColor=white)](https://www.ecomuhafiz.com)
 [![Views](https://komarev.com/ghpvc/?username=AnoshaZia&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/AnoshaZia)
 
 </div>
@@ -21,13 +22,17 @@
 
 ## 🏢 EcoMuhafiz — Founder & CTO
 
-> *Pakistan's first IoT-based carbon monitoring & verification platform*
+> *Pakistan's first AI-powered IoT + GIS platform for real-time forest monitoring and verifiable carbon accounting*
+> 
+> 🌐 [ecomuhafiz.com](https://www.ecomuhafiz.com)
 
-Designed and built the full stack from scratch: custom IoT hardware (ESP32 + Arduino sensor arrays) → real-time data pipelines → ML-driven carbon analytics → verification dashboards. From firmware to frontend, from prototype to production.
+Every 19 minutes, Pakistan loses another hectare of forest — and no one finds out until it's gone. EcoMuhafiz changes that.
 
-🔹 **Hardware:** Custom-designed multi-sensor nodes for environmental data acquisition  
-🔹 **Intelligence:** ML models for carbon emission pattern detection & anomaly flagging  
-🔹 **Impact:** Enabling verifiable carbon credits through real-time, tamper-proof monitoring  
+🔹 **IoT Detection:** Ground sensors detect illegal logging activity instantly, triggering real-time alerts  
+🔹 **Live GIS Dashboard:** Maps forests, tracks changes & visualizes deforestation hotspots via Google Earth Engine  
+🔹 **Carbon Engine:** Measures sequestration, validates credits against Verra & Gold Standard  
+🔹 **AI Insights:** Guides companies toward net-zero with decarbonization analytics & ESG reporting  
+🔹 **Traction:** Government pilot discussions with MOCC for Margalla Hills deployment  
 
 ---
 
