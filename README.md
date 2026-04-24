@@ -1,7 +1,10 @@
 <div align="center">
 
-# Anosha Zia
-### Founder & CTO @ EcoMuhafiz | ML & IoT Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:00c9ff&height=250&section=header&text=Anosha%20Zia&fontSize=75&fontColor=ffffff&fontAlignY=33&desc=Founder%20%26%20CTO%20%7C%20Building%20at%20the%20Intersection%20of%20GreenTech%20%C3%97%20HealthTech%20%C3%97%20AI&descSize=16&descAlignY=56&descColor=90e0ef&animation=fadeIn" width="100%"/>
+
+<br>
+
+#### *Automating sustainable solutions that the planet can't wait for.*
 
 <br>
 
@@ -76,6 +79,8 @@ Every 19 minutes, Pakistan loses another hectare of forest — and no one finds 
 
 <div align="center">
 
-*"I don't chase opportunities — I engineer them."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:00c9ff&height=100&section=footer" width="100%"/>
+
+*"If the system doesn't exist yet — build it."*
 
 </div>
