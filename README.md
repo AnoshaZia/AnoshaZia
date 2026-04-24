@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,60:4c1d95,100:7c3aed&height=230&section=header&text=Anosha%20Zia&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=Founder%20%26%20CTO%20%40%20EcoMuhafiz%20%7C%20Patent%20Holder%20%7C%20ML%20%26%20IoT%20Engineer&descSize=17&descAlignY=55&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+# Anosha Zia
+### Founder & CTO @ EcoMuhafiz | ML & IoT Engineer
 
 <br>
 
-### 🇵🇰 Built Pakistan's First IoT-Powered Carbon Monitoring & Verification Platform — Patent Pending
+### 🇵🇰 Built Pakistan's First IoT-Powered Carbon Monitoring & Verification Platform
 
 <br>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anosha%20Zia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anosha-zia-674659315/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anosha%20Zia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[anosha-zia-REPLACE-THIS](https://www.linkedin.com/in/anosha-zia-674659315/))
 [![GitHub](https://img.shields.io/badge/GitHub-AnoshaZia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnoshaZia)
-![Patent](https://img.shields.io/badge/🇵🇰%20Patent-Filed-gold?style=for-the-badge)
 [![NUST](https://img.shields.io/badge/NUST%20SINES-BS%20Bioinformatics-blue?style=for-the-badge)]()
 [![Views](https://komarev.com/ghpvc/?username=AnoshaZia&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/AnoshaZia)
 
@@ -22,9 +21,9 @@
 
 ## 🏢 EcoMuhafiz — Founder & CTO
 
-> *Pakistan's first IoT-based carbon monitoring & verification platform — Patent Pending*
+> *Pakistan's first IoT-based carbon monitoring & verification platform*
 
-Designed and built the full stack from scratch: custom IoT hardware (ESP32 + Arduino sensor arrays) → real-time data pipelines → ML-driven carbon analytics → verification dashboards. From firmware to frontend, from prototype to patent.
+Designed and built the full stack from scratch: custom IoT hardware (ESP32 + Arduino sensor arrays) → real-time data pipelines → ML-driven carbon analytics → verification dashboards. From firmware to frontend, from prototype to production.
 
 🔹 **Hardware:** Custom-designed multi-sensor nodes for environmental data acquisition  
 🔹 **Intelligence:** ML models for carbon emission pattern detection & anomaly flagging  
@@ -70,24 +69,7 @@ Designed and built the full stack from scratch: custom IoT hardware (ESP32 + Ard
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnoshaZia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnoshaZia&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnoshaZia&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,60:4c1d95,100:7c3aed&height=100&section=footer" width="100%"/>
 
 *"I don't chase opportunities — I engineer them."*
 
